@@ -19,7 +19,7 @@ hr {
 
 :root {
     --primary-color: #34d399;
-    --dark-gray: #6B7280;
+    --pale-sky: #6B7280;
     --midnight:  #1F2937
 }
 
@@ -106,7 +106,7 @@ hr {
 .hero .hero-heading {
     text-align: center;
     padding: 1rem;
-    color: var(--dark-gray),
+    color: var(--pale-sky),
 }
 
 /* section */
